@@ -75,3 +75,5 @@ if __name__ == '__main__':
         # video_id = "mpFLlzVhr9c"
         print(f"{i}.{row} is processing")
         create_srt_from_info(row)
+        
+        
